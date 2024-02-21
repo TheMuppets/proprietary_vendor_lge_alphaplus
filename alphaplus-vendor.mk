@@ -468,20 +468,14 @@ PRODUCT_COPY_FILES += \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.eeprom.imx351_m24c32.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.eeprom.imx351_m24c32.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.eeprom.imx363_m24c64m.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.eeprom.imx363_m24c64m.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.eeprom.imx520_m24c64m.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.eeprom.imx520_m24c64m.so \
-    vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.eeprom.irs2381c_polar.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.eeprom.irs2381c_polar.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.eeprom.s5k3m5_m24c32.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.eeprom.s5k3m5_m24c32.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensor.imx351.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx351.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensor.imx363.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx363.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensor.imx520.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.imx520.so \
-    vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensor.irs2381c.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.irs2381c.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensor.s5k3m5.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensor.s5k3m5.so \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensormodule.imx351.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.imx351.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensormodule.imx363.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.imx363.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensormodule.imx520.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.imx520.bin \
-    vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensormodule.irs2381c_v221.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.irs2381c_v221.bin \
-    vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensormodule.irs2381c_v22114.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.irs2381c_v22114.bin \
-    vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensormodule.irs2381c_v22116.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.irs2381c_v22116.bin \
-    vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensormodule.irs2381c_v221c.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.irs2381c_v221c.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.sensormodule.s5k3m5.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.s5k3m5.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.default.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib/camera/com.qti.tuned.imx351.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.tuned.imx351.bin \
@@ -773,20 +767,14 @@ PRODUCT_COPY_FILES += \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.eeprom.imx351_m24c32.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.imx351_m24c32.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.eeprom.imx363_m24c64m.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.imx363_m24c64m.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.eeprom.imx520_m24c64m.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.imx520_m24c64m.so \
-    vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.eeprom.irs2381c_polar.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.irs2381c_polar.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.eeprom.s5k3m5_m24c32.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.s5k3m5_m24c32.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensor.imx351.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx351.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensor.imx363.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx363.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensor.imx520.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.imx520.so \
-    vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensor.irs2381c.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.irs2381c.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensor.s5k3m5.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.s5k3m5.so \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensormodule.imx351.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.imx351.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensormodule.imx363.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.imx363.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensormodule.imx520.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.imx520.bin \
-    vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensormodule.irs2381c_v221.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.irs2381c_v221.bin \
-    vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensormodule.irs2381c_v22114.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.irs2381c_v22114.bin \
-    vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensormodule.irs2381c_v22116.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.irs2381c_v22116.bin \
-    vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensormodule.irs2381c_v221c.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.irs2381c_v221c.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.sensormodule.s5k3m5.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.s5k3m5.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.tuned.default.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.default.bin \
     vendor/lge/alphaplus/proprietary/vendor/lib64/camera/com.qti.tuned.imx351.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.tuned.imx351.bin \
